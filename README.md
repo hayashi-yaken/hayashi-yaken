@@ -7,7 +7,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I'm a backend engineer.
+- 🧑‍💻 I'm a computer science student.
 - 🌱 I’m currently learning go!
   <br>
 
