@@ -27,7 +27,7 @@
 
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats-coral-iota-61.vercel.app/api?username=hayashi-yaken&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats-coral-iota-61.vercel.app/api/top-langs/?username=hayashi-yaken&theme=vue-dark&layout=compact&count_private=true&include_all_commits=true" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats-coral-iota-61.vercel.app/api/top-langs/?username=hayashi-yaken&theme=vue-dark&layout=compact&count_private=true&include_all_commits=true&show_icons=true" />
 </div>
 
 <!--
